@@ -364,7 +364,7 @@ Program executed successfully on<span style="color:#308080; ">:</span> <span sty
 
 ## 4. Sample YOLO object detection results
 
-# We have test the YOLO-v3 model on 10 test images, contains various objects of interest. The detection results are illustrated next for each test image.
+* We have tested the YOLO-v3 model on 10 test images, contains various objects of interest. The detection results are illustrated next for each test image.
 
 ### 4.1. Test image # 1:
 
