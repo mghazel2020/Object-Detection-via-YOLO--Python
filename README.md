@@ -379,7 +379,7 @@ box coordinate x<span style="color:#308080; ">,</span>y<span style="color:#30808
 box coordinate x<span style="color:#308080; ">,</span>y<span style="color:#308080; ">,</span>w<span style="color:#308080; ">,</span>h<span style="color:#308080; ">:</span> <span style="color:#308080; ">[</span><span style="color:#008000; ">198.27343404</span>  <span style="color:#008000; ">63.17662293</span>  <span style="color:#008000; ">53.06311816</span>  <span style="color:#008000; ">79.39320123</span><span style="color:#308080; ">]</span>
 </pre>
 
-<img src="test-image-01-results.webp" width = "1000"/>
+<img src="images/test-image-01-results.webp" width = "1000"/>
 
 
 ### 4.2. Test image # 2:
@@ -395,7 +395,7 @@ box coordinate x<span style="color:#308080; ">,</span>y<span style="color:#30808
 box coordinate x<span style="color:#308080; ">,</span>y<span style="color:#308080; ">,</span>w<span style="color:#308080; ">,</span>h<span style="color:#308080; ">:</span> <span style="color:#308080; ">[</span><span style="color:#008000; ">166.49897397</span>  <span style="color:#008000; ">66.85848141</span>  <span style="color:#008000; ">58.9142479</span>  <span style="color:#008000; ">106.41536546</span><span style="color:#308080; ">]</span>
 </pre>
 
-<img src="test-image-02-results.webp" width = "1000"/>
+<img src="images/test-image-02-results.webp" width = "1000"/>
 
 ### 4.3 Test image # 3:
 
@@ -413,7 +413,7 @@ box coordinate x<span style="color:#308080; ">,</span>y<span style="color:#30808
 box coordinate x<span style="color:#308080; ">,</span>y<span style="color:#308080; ">,</span>w<span style="color:#308080; ">,</span>h<span style="color:#308080; ">:</span> <span style="color:#308080; ">[</span><span style="color:#008000; ">281.08209372</span> <span style="color:#008000; ">328.79640794</span> <span style="color:#008000; ">151.02022886</span> <span style="color:#008000; ">306.41904584</span><span style="color:#308080; ">]</span>
 </pre>
 
-<img src="test-image-03-results.webp" width = "1000"/>
+<img src="images/test-image-03-results.webp" width = "1000"/>
 
 
 
@@ -428,7 +428,7 @@ box coordinate x<span style="color:#308080; ">,</span>y<span style="color:#30808
 </pre>
 
 
-<img src="test-image-04-results.webp" width = "1000"/>
+<img src="images/test-image-04-results.webp" width = "1000"/>
 
 
 ### 4.5. Test image # 5:
@@ -445,7 +445,7 @@ box coordinate x<span style="color:#308080; ">,</span>y<span style="color:#30808
 box coordinate x<span style="color:#308080; ">,</span>y<span style="color:#308080; ">,</span>w<span style="color:#308080; ">,</span>h<span style="color:#308080; ">:</span> <span style="color:#308080; ">[</span> <span style="color:#008000; ">88.25491369</span> <span style="color:#008000; ">101.32178074</span> <span style="color:#008000; ">106.2919721</span>  <span style="color:#008000; ">194.65964341</span><span style="color:#308080; ">]</span>
 </pre>
 
-<img src="test-image-05-results.webp" width = "1000"/>
+<img src="images/test-image-05-results.webp" width = "1000"/>
 
 
 
@@ -461,7 +461,7 @@ box coordinate x<span style="color:#308080; ">,</span>y<span style="color:#30808
 
 
 
-<img src="test-image-06-results.webp" width = "1000"/>
+<img src="images/test-image-06-results.webp" width = "1000"/>
 
 
 ### 4.7. Test image # 7:
@@ -477,7 +477,7 @@ box coordinate x<span style="color:#308080; ">,</span>y<span style="color:#30808
 </pre>
 
 
-<img src="test-image-07-results.webp" width = "1000"/>
+<img src="images/test-image-07-results.webp" width = "1000"/>
 
 
 ### 4.8. Test image # 8:
@@ -498,7 +498,7 @@ box coordinate x<span style="color:#308080; ">,</span>y<span style="color:#30808
 box coordinate x<span style="color:#308080; ">,</span>y<span style="color:#308080; ">,</span>w<span style="color:#308080; ">,</span>h<span style="color:#308080; ">:</span> <span style="color:#308080; ">[</span> <span style="color:#008000; ">48.66480827</span> <span style="color:#008000; ">126.89756724</span> <span style="color:#008000; ">172.94928432</span>  <span style="color:#008000; ">93.92557389</span><span style="color:#308080; ">]</span>
 </pre>
 
-<img src="test-image-08-results.webp" width = "1000"/>
+<img src=images/"test-image-08-results.webp" width = "1000"/>
 
 
 ### 4.9. Test image # 9:
@@ -519,7 +519,7 @@ box coordinate x<span style="color:#308080; ">,</span>y<span style="color:#30808
 box coordinate x<span style="color:#308080; ">,</span>y<span style="color:#308080; ">,</span>w<span style="color:#308080; ">,</span>h<span style="color:#308080; ">:</span> <span style="color:#308080; ">[</span><span style="color:#008000; ">334.85984802</span> <span style="color:#008000; ">181.99032462</span> <span style="color:#008000; ">147.12804556</span>  <span style="color:#008000; ">41.20300182</span><span style="color:#308080; ">]</span>
 </pre>
 
-<img src="test-image-09-results.webp" width = "1000"/>
+<img src="images/test-image-09-results.webp" width = "1000"/>
 
 
 ### 4.10. Test image # 10:
@@ -534,7 +534,7 @@ box coordinate x<span style="color:#308080; ">,</span>y<span style="color:#30808
 box coordinate x<span style="color:#308080; ">,</span>y<span style="color:#308080; ">,</span>w<span style="color:#308080; ">,</span>h<span style="color:#308080; ">:</span> <span style="color:#308080; ">[</span><span style="color:#008000; ">144.69975233</span> <span style="color:#008000; ">318.83762777</span> <span style="color:#008000; ">166.34090245</span>  <span style="color:#008000; ">84.78889614</span><span style="color:#308080; ">]</span>
 </pre>
 
-<img src="test-image-10-results.webp" width = "1000"/>
+<img src="images/test-image-10-results.webp" width = "1000"/>
 
 
 5. Analysis
