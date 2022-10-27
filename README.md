@@ -136,6 +136,7 @@ NMS_THRESHOLD <span style="color:#308080; ">=</span> <span style="color:#008000;
 </pre>
 
 
+
 #### 3.2.2. A function to get the class names:
 
 * The YOLO-v3 model has been pre-trained on the COCO dataset, which has 80 classes
